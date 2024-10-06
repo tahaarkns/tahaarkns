@@ -26,11 +26,13 @@ tahaarkns@gmail.com
     </tr>
     <tr>
       <td valign="text-top"> Welcome to Pemuda Pintar: Membangun Bangsa, an exciting educational adventure where learning meets fun! Explore diverse maps filled with vibrant landscapes and hidden treasures as you collect chips and sharpen your knowledge. Navigate enchanting forests, but watch out for enemies! To defeat them, answer educational questions covering subjects like math, science, history, and language arts. The more correct answers, the more chips you earn, rewarding both your intellect and agility! </td> <!--desc-->
-      <td valign="text-top">Imagine stepping into a retro arcade game where you play Pong against a computer. You control a paddle on one side of the screen, and your goal is to bounce a ball past the computer's paddle on the opposite side. Each time the ball gets past your opponent's paddle, you score a point.</td> <!--desc-->
+      <td valign="text-top">Imagine stepping into a retro arcade game where you play Pong against a computer. You control a paddle on one side of the screen, and your goal is to bounce a ball past the computer's paddle on the opposite side. Each time the ball gets past your opponent's paddle, you score a point. It's a simple yet addictive game that brings back the fun of classic arcade gaming. Can you beat the computer to 10 points??
+
+</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://tahaarkns.notion.site/tahaarkns-io-10f351bb6c938022825bff9c1fcedbf7#:~:text=ALT-,Teamwork,-Project%20Pemuda%20Pintar">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/tahaarkns/PongProject">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://tahaarkns.notion.site/tahaarkns-io-10f351bb6c938022825bff9c1fcedbf7#:~:text=ALT-,Teamwork,-Project%20Pemuda%20Pintar">GitHub Repository</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/tahaarkns/PongProject">GitHub Repository</a></td> <!--link2-->
     </tr>
     <tr>
       <td align="center"><a href="https://drive.google.com/file/d/17oNypi6KWSbAC4nvyVtsq50uvpzTU2Eh/view">Experimental Gameplay</a></td> <!--link1-->
@@ -60,12 +62,12 @@ tahaarkns@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">In "Into the Caverns," players control a blue wizard navigating a dark, labyrinthine cavern filled with dangers and treasures. The primary objective is to defeat a formidable slime blocking the path deeper into the cave. The wizard uses spells like fireballs to damage the slime and ice to freeze it temporarily. The slime can divide into smaller versions, requiring strategic attacks. The cavern is filled with traps such as collapsing floors and spike pits, which the wizard must avoid while managing limited mana. Collectible artifacts like mana potions and spell scrolls enhance the wizard's abilities. The game culminates in a challenging battle against the slime's final form, combining action and strategy in a magical underground adventure.</td> <!--desc-->
+      <td valign="text-top">In "Into the Caverns," players control a blue wizard navigating a dark, labyrinthine cavern filled with dangers and treasures. The primary objective is to defeat a formidable slime blocking the path deeper into the cave. Collectible artifacts like mana potions and spell scrolls enhance the wizard's abilities. The game culminates in a challenging battle against the slime's final form, combining action and strategy in a magical underground adventure.</td> <!--desc-->
       <td valign="text-top">4th project desc </td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/tahaarkns/Into-the-Caverns">Read More</a></td> <!--link 3-->
-      <td align="center"><a href="---">Read More</a></td> <!--link 4-->
+      <td align="center"><a href="https://github.com/tahaarkns/Into-the-Caverns">GitHub Repository</a></td> <!--link 3-->
+      <td align="center"><a href="---">GitHub Repository</a></td> <!--link 4-->
     </tr>
     <tr>
       <td align="center"><a href="into the caverns trailers">Trailer</a></td> <!--link 3-->
