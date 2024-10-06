@@ -1,7 +1,7 @@
 Hi, I'm Taha 👋
 ---
 **📌About** <br>
-Hi, my name is Taha. I am a Computer Science student at BINUS University, currently pursuing a degree in Game Application Technology. My academic journey has given me a strong foundation in computer science, along with the soft skills and expertise needed to make a meaningful impact. Here is my portfolio along with some projects I have completed or am currently working on over the past few years.
+Hi, my name is Taha. I am a Computer Science student at BINUS University, currently pursuing a degree in Game Application Technology. My academic journey has given me a strong foundation in computer science, along with the soft skills and expertise needed to make a meaningful impact. Here is my portfolio along with some projects I have completed or currently working on over the past few years.
 
 **📩Email** <br>
 tahaarkns@gmail.com
