@@ -11,8 +11,8 @@ tahaarkns@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Teamwork Project Pemuda Pintar :  Membangun Bangsa </a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Pong Project</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Teamwork Software Engineering Project Pemuda Pintar :  Membangun Bangsa </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Retro Pong</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -31,7 +31,7 @@ tahaarkns@gmail.com
 </td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://tahaarkns.notion.site/tahaarkns-io-10f351bb6c938022825bff9c1fcedbf7#:~:text=ALT-,Teamwork,-Project%20Pemuda%20Pintar">GitHub Repository</a></td> <!--link1-->
+      <td align="center"><a href="https://tahaarkns.notion.site/tahaarkns-io-10f351bb6c938022825bff9c1fcedbf7#:~:text=ALT-,Teamwork,-Project%20Pemuda%20Pintar">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://github.com/tahaarkns/PongProject">GitHub Repository</a></td> <!--link2-->
     </tr>
     <tr>
