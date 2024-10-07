@@ -18,7 +18,7 @@ tahaarkns@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://tahaarkns.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ff788d9fa-15b6-4fa7-a6bb-9adb06ced371%2F1f29415a-ed31-4787-9fa7-a04752889db1%2Fimage.png?table=block&id=111351bb-6c93-8045-9841-f21e8df25f28&spaceId=f788d9fa-15b6-4fa7-a6bb-9adb06ced371&width=1180&userId=&cache=v2" alt="1" style="width:100%;height:auto;">
+        <img src="https://file.notion.so/f/f/f788d9fa-15b6-4fa7-a6bb-9adb06ced371/dc12f42a-d304-4b2a-9a30-7db39da66410/Pemuda_Pintar2_(1)_(1).gif?table=block&id=118351bb-6c93-8047-8b10-fbaec8634132&spaceId=f788d9fa-15b6-4fa7-a6bb-9adb06ced371&expirationTimestamp=1728374400000&signature=v3_c9Bg54sUcLYyBOlTeEXvFWqbVOoHayqdyBSh5HyE" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://private-user-images.githubusercontent.com/158982279/346267378-882dfbf4-be11-4c17-945e-c0947af7a08c.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgxMDg1NTUsIm5iZiI6MTcyODEwODI1NSwicGF0aCI6Ii8xNTg5ODIyNzkvMzQ2MjY3Mzc4LTg4MmRmYmY0LWJlMTEtNGMxNy05NDVlLWMwOTQ3YWY3YTA4Yy5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAwNVQwNjA0MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZmZlZjE3NmI1ZGZmNWZkZTBlZGM1YTE0OTc5NjdiNDFjZTZhY2QzOTllMjg5NzMwNzYzNjYzNGNlMGE5NGY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.BBrcf6ngrBJBEosZktDhKM0IIHLaEZQM1j9WEmo6uXo" alt="2" style="width:100%;height:auto;">
