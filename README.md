@@ -18,7 +18,7 @@ tahaarkns@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="![image (5)](https://github.com/user-attachments/assets/dde6b4c4-caba-45b4-b2f6-f2c200b06a10)"alt="1" style="width:100%;height:auto;">
+        <img src="![Pemuda Pintar2 (1) (1)](https://github.com/user-attachments/assets/72da9a01-e501-4e29-919e-14323502bbd4)"alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://private-user-images.githubusercontent.com/158982279/346267348-966d40ef-3875-4b93-a318-433122814754.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk5Njk5NzIsIm5iZiI6MTczOTk2OTY3MiwicGF0aCI6Ii8xNTg5ODIyNzkvMzQ2MjY3MzQ4LTk2NmQ0MGVmLTM4NzUtNGI5My1hMzE4LTQzMzEyMjgxNDc1NC5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxOVQxMjU0MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYWFiNzY5MmJmMTI3NjZiMDkwYTU2NzM3MjllM2IxZGUzYzA0OGRhN2QxNzBhNzg4NjhmNDllMzEwZTc1ZmYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.w7BIdCpMtVmMKY0rR31Dqe7B-L1ZmcCpHsgrYLNvh4A" alt="2" style="width:100%;height:auto;">
