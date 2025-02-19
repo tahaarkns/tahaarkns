@@ -1,4 +1,4 @@
-![Pemuda Pintar2 (1) (1)](https://github.com/user-attachments/assets/57ace928-d40b-482f-b3c6-58535f88bf02)Hi, I'm Taha 👋
+Hi, I'm Taha 👋
 ---
 **📌About** <br>
 Hi, my name is Taha. I am a Computer Science student at BINUS University, currently pursuing a degree in Game Application Technology. My academic journey has given me a strong foundation in computer science, along with the soft skills and expertise needed to make a meaningful impact. Here is my portfolio along with some projects I have completed or currently working on over the past few years.
@@ -18,7 +18,7 @@ tahaarkns@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://www.notion.so/tahaarkns/tahaarkns-io-10f351bb6c938022825bff9c1fcedbf7?pvs=4#111351bb6c9380459841f21e8df25f28" alt="1" style="width:100%;height:auto;">
+        <img src="![image (5)](https://github.com/user-attachments/assets/dde6b4c4-caba-45b4-b2f6-f2c200b06a10)"alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://private-user-images.githubusercontent.com/158982279/346267348-966d40ef-3875-4b93-a318-433122814754.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk5Njk5NzIsIm5iZiI6MTczOTk2OTY3MiwicGF0aCI6Ii8xNTg5ODIyNzkvMzQ2MjY3MzQ4LTk2NmQ0MGVmLTM4NzUtNGI5My1hMzE4LTQzMzEyMjgxNDc1NC5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxOVQxMjU0MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYWFiNzY5MmJmMTI3NjZiMDkwYTU2NzM3MjllM2IxZGUzYzA0OGRhN2QxNzBhNzg4NjhmNDllMzEwZTc1ZmYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.w7BIdCpMtVmMKY0rR31Dqe7B-L1ZmcCpHsgrYLNvh4A" alt="2" style="width:100%;height:auto;">
